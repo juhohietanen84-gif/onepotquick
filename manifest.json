@@ -1,0 +1,20 @@
+{
+  "name": "One Pot Quick",
+  "short_name": "One Pot Quick",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fefaf6",
+  "theme_color": "#2d6a4f",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
