@@ -1,1 +1,5 @@
 google.com, pub-8607061221145156, DIRECT, f08c47fec0942fa0
+google.com, pub-1301877944489289, RESELLER, f08c47fec0942fa0
+google.com, pub-8459011973846090, RESELLER, f08c47fec0942fa0
+# Ezoic ads.txt — complete list managed by Ezoic's ads.txt manager.
+# Enable at: https://pubdash.ezoic.com (Settings > Ads.txt Manager)
