@@ -1,0 +1,274 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "One Pot Quick",
+  "home_page_url": "https://onepotquick.com/",
+  "feed_url": "https://onepotquick.com/feed.json",
+  "description": "One-pot recipes that taste amazing. Less cleanup, more flavor.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://onepotquick.com/one-pot-creamy-tuscan-chicken-pasta/",
+      "url": "https://onepotquick.com/one-pot-creamy-tuscan-chicken-pasta/",
+      "title": "One-Pot Creamy Tuscan Chicken Pasta",
+      "content_text": "Creamy Tuscan chicken pasta in one pot, 25 minutes. No draining, minimal cleanup.",
+      "image": "https://onepotquick.com/images/one-pot-creamy-tuscan-chicken-pasta.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "one pot pasta",
+        "creamy tuscan chicken",
+        "one pot dinner"
+      ]
+    },
+    {
+      "id": "https://onepotquick.com/one-pot-lemon-garlic-shrimp-pasta/",
+      "url": "https://onepotquick.com/one-pot-lemon-garlic-shrimp-pasta/",
+      "title": "One-Pot Lemon Garlic Shrimp Pasta",
+      "content_text": "One-Pot Lemon Garlic Shrimp Pasta. Linguine cooked directly in a lemon-garlic broth with shrimp added in the last 3 minutes. Bright, fa",
+      "image": "https://onepotquick.com/images/one-pot-lemon-garlic-shrimp-pasta.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "one pot shrimp pasta",
+        "lemon garlic pasta",
+        "easy shrimp recipe one pot"
+      ]
+    },
+    {
+      "id": "https://onepotquick.com/one-pot-chicken-burrito-bowl/",
+      "url": "https://onepotquick.com/one-pot-chicken-burrito-bowl/",
+      "title": "One-Pot Chicken Burrito Bowl",
+      "content_text": "One-Pot Chicken Burrito Bowl. Rice, seasoned chicken, black beans, corn, and salsa — all cooked together in one pot. The rice abso",
+      "image": "https://onepotquick.com/images/one-pot-chicken-burrito-bowl.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "one pot burrito bowl",
+        "chicken rice bowl",
+        "easy burrito bowl recipe one pot"
+      ]
+    },
+    {
+      "id": "https://onepotquick.com/one-pot-chicken-rice/",
+      "url": "https://onepotquick.com/one-pot-chicken-rice/",
+      "title": "One-Pot Chicken and Rice",
+      "content_text": "One-Pot Chicken and Rice. Seasoned chicken thighs on a bed of rice. Chicken fat drips into the rice as it cooks, adding flavor",
+      "image": "https://onepotquick.com/images/one-pot-chicken-rice.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "one pot chicken rice",
+        "easy chicken rice dinner"
+      ]
+    },
+    {
+      "id": "https://onepotquick.com/one-pot-beef-chili/",
+      "url": "https://onepotquick.com/one-pot-beef-chili/",
+      "title": "One-Pot Beef Chili",
+      "content_text": "One-Pot Beef Chili. Thick, hearty chili in one pot. Ground beef, beans, tomatoes, and warm spices.",
+      "image": "https://onepotquick.com/images/one-pot-beef-chili.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "one pot chili",
+        "easy beef chili",
+        "quick chili recipe"
+      ]
+    },
+    {
+      "id": "https://onepotquick.com/one-pot-creamy-mushroom-pasta/",
+      "url": "https://onepotquick.com/one-pot-creamy-mushroom-pasta/",
+      "title": "One-Pot Creamy Mushroom Pasta",
+      "content_text": "One-Pot Creamy Mushroom Pasta. Pasta in creamy mushroom sauce, one pot. Mushrooms release liquid into the pasta water, adding depth",
+      "image": "https://onepotquick.com/images/one-pot-creamy-mushroom-pasta.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "one pot mushroom pasta",
+        "creamy mushroom",
+        "vegetarian pasta"
+      ]
+    },
+    {
+      "id": "https://onepotquick.com/one-pot-coconut-lentil-soup/",
+      "url": "https://onepotquick.com/one-pot-coconut-lentil-soup/",
+      "title": "One-Pot Coconut Lentil Soup",
+      "content_text": "One-Pot Coconut Lentil Soup. Red lentils in coconut milk with warming spices. Red lentils break down completely during cooking, c",
+      "image": "https://onepotquick.com/images/one-pot-coconut-lentil-soup.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "coconut lentil soup",
+        "one pot dal",
+        "vegan lentil soup"
+      ]
+    },
+    {
+      "id": "https://onepotquick.com/one-pot-sausage-peppers-pasta/",
+      "url": "https://onepotquick.com/one-pot-sausage-peppers-pasta/",
+      "title": "One-Pot Sausage Peppers Pasta",
+      "content_text": "One-Pot Sausage Peppers Pasta. Italian sausage, peppers, and rigatoni in tomato sauce. Sausage fat flavors the entire dish.",
+      "image": "https://onepotquick.com/images/one-pot-sausage-peppers-pasta.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "one pot sausage pasta",
+        "sausage peppers",
+        "easy sausage pasta"
+      ]
+    },
+    {
+      "id": "https://onepotquick.com/one-pot-tomato-basil-soup/",
+      "url": "https://onepotquick.com/one-pot-tomato-basil-soup/",
+      "title": "One-Pot Tomato Basil Soup",
+      "content_text": "One-Pot Tomato Basil Soup. Creamy tomato soup made entirely in one pot with canned tomatoes. No blender needed — crush the toma",
+      "image": "https://onepotquick.com/images/one-pot-tomato-basil-soup.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "one pot tomato soup",
+        "easy tomato basil soup",
+        "creamy tomato soup"
+      ]
+    },
+    {
+      "id": "https://onepotquick.com/one-pot-cajun-shrimp-grits/",
+      "url": "https://onepotquick.com/one-pot-cajun-shrimp-grits/",
+      "title": "One-Pot Cajun Shrimp and Grits",
+      "content_text": "One-Pot Cajun Shrimp and Grits. Creamy grits topped with spiced shrimp in a buttery sauce. The grits cook in the same pot, absorbing",
+      "image": "https://onepotquick.com/images/one-pot-cajun-shrimp-grits.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "one pot shrimp grits",
+        "cajun shrimp",
+        "easy shrimp and grits"
+      ]
+    },
+    {
+      "id": "https://onepotquick.com/one-pot-spanish-chickpea-stew/",
+      "url": "https://onepotquick.com/one-pot-spanish-chickpea-stew/",
+      "title": "One-Pot Spanish Chickpea Stew",
+      "content_text": "One-Pot Spanish Chickpea Stew. Chickpeas simmered with chorizo, tomatoes, and spinach in a smoky paprika broth. A hearty one-pot me",
+      "image": "https://onepotquick.com/images/one-pot-spanish-chickpea-stew.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "one pot chickpea stew",
+        "spanish stew",
+        "easy chickpea recipe"
+      ]
+    },
+    {
+      "id": "https://onepotquick.com/one-pot-mac-and-cheese/",
+      "url": "https://onepotquick.com/one-pot-mac-and-cheese/",
+      "title": "One-Pot Mac and Cheese",
+      "content_text": "One-Pot Mac and Cheese. Elbow pasta cooked directly in milk, which transforms into a creamy cheese sauce as the starch relea",
+      "image": "https://onepotquick.com/images/one-pot-mac-and-cheese.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "one pot mac and cheese",
+        "easy mac cheese",
+        "stovetop mac and cheese"
+      ]
+    },
+    {
+      "id": "https://onepotquick.com/one-pot-thai-peanut-noodles/",
+      "url": "https://onepotquick.com/one-pot-thai-peanut-noodles/",
+      "title": "One-Pot Thai Peanut Noodles",
+      "content_text": "One-Pot Thai Peanut Noodles. Rice noodles in a creamy peanut-lime sauce with vegetables. Everything cooks together — noodles soft",
+      "image": "https://onepotquick.com/images/one-pot-thai-peanut-noodles.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "one pot peanut noodles",
+        "thai noodles easy",
+        "peanut sauce pasta"
+      ]
+    },
+    {
+      "id": "https://onepotquick.com/one-pot-cacio-e-pepe/",
+      "url": "https://onepotquick.com/one-pot-cacio-e-pepe/",
+      "title": "One-Pot Cacio e Pepe",
+      "content_text": "One-Pot Cacio e Pepe. Silky Roman cheese and pepper pasta made in one pot with just 6 ingredients in 20 minutes.",
+      "image": "https://onepotquick.com/images/one-pot-cacio-e-pepe.webp",
+      "date_published": "2026-04-07T00:00:00Z",
+      "tags": [
+        "cacio e pepe",
+        "cheese pepper pasta",
+        "roman pasta",
+        "one pot pasta",
+        "easy Italian dinner"
+      ]
+    },
+    {
+      "id": "https://onepotquick.com/one-pot-pesto-chicken-pasta/",
+      "url": "https://onepotquick.com/one-pot-pesto-chicken-pasta/",
+      "title": "One-Pot Pesto Chicken Pasta",
+      "content_text": "One-Pot Pesto Chicken Pasta. Creamy basil pesto, tender chicken, and penne cooked together in 30 minutes.",
+      "image": "https://onepotquick.com/images/one-pot-pesto-chicken-pasta.webp",
+      "date_published": "2026-04-08T00:00:00Z",
+      "tags": [
+        "pesto chicken pasta",
+        "basil pesto pasta",
+        "one pot chicken pasta",
+        "creamy pesto pasta",
+        "easy dinner"
+      ]
+    },
+    {
+      "id": "https://onepotquick.com/one-pot-vodka-rigatoni/",
+      "url": "https://onepotquick.com/one-pot-vodka-rigatoni/",
+      "title": "One-Pot Vodka Rigatoni",
+      "content_text": "One-Pot Vodka Rigatoni. Creamy pink tomato vodka sauce with rigatoni, all in one pot in 30 minutes.",
+      "image": "https://onepotquick.com/images/one-pot-vodka-rigatoni.webp",
+      "date_published": "2026-04-09T00:00:00Z",
+      "tags": [
+        "vodka pasta",
+        "penne alla vodka",
+        "rigatoni",
+        "creamy tomato pasta",
+        "one pot pasta"
+      ]
+    },
+    {
+      "id": "https://onepotquick.com/one-pot-spinach-ricotta-pasta/",
+      "url": "https://onepotquick.com/one-pot-spinach-ricotta-pasta/",
+      "title": "One-Pot Spinach Ricotta Pasta",
+      "content_text": "One-Pot Spinach Ricotta Pasta. Creamy ricotta, wilted spinach, and lemon in a light one-pot pasta ready in 23 minutes.",
+      "image": "https://onepotquick.com/images/one-pot-spinach-ricotta-pasta.webp",
+      "date_published": "2026-04-10T00:00:00Z",
+      "tags": [
+        "spinach ricotta pasta",
+        "creamy spinach pasta",
+        "vegetarian pasta",
+        "one pot pasta",
+        "easy weeknight dinner"
+      ]
+    },
+    {
+      "id": "https://onepotquick.com/one-pot-butter-chicken/",
+      "url": "https://onepotquick.com/one-pot-butter-chicken/",
+      "title": "One Pot Butter Chicken",
+      "content_text": "",
+      "image": "https://onepotquick.com/images/one-pot-butter-chicken.webp",
+      "date_published": "2026-04-23T00:00:00Z",
+      "tags": [
+        "one pot butter chicken",
+        "easy butter chicken"
+      ]
+    },
+    {
+      "id": "https://onepotquick.com/one-pot-chicken-alfredo/",
+      "url": "https://onepotquick.com/one-pot-chicken-alfredo/",
+      "title": "One Pot Chicken Alfredo",
+      "content_text": "",
+      "image": "https://onepotquick.com/images/one-pot-chicken-alfredo.webp",
+      "date_published": "2026-04-23T00:00:00Z",
+      "tags": [
+        "one pot chicken alfredo",
+        "creamy pasta"
+      ]
+    },
+    {
+      "id": "https://onepotquick.com/one-pot-chili-mac/",
+      "url": "https://onepotquick.com/one-pot-chili-mac/",
+      "title": "One Pot Chili Mac",
+      "content_text": "",
+      "image": "https://onepotquick.com/images/one-pot-chili-mac.webp",
+      "date_published": "2026-04-23T00:00:00Z",
+      "tags": [
+        "one pot chili mac",
+        "chili macaroni"
+      ]
+    }
+  ]
+}
