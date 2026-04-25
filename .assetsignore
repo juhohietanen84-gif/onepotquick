@@ -1,8 +1,0 @@
-# Files Cloudflare Workers should NOT deploy as public assets.
-.git/
-.git
-.gitignore
-.assetsignore
-.DS_Store
-Thumbs.db
-*.treated
