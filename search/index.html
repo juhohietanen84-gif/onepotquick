@@ -25,7 +25,7 @@ function render(q){
   resEl.innerHTML=res.slice(0,60).map(r=>{
     return '<a href="'+URL_PREFIX+'/'+r.s+'/" class="recipe-card"><div class="recipe-card-img">'+
       (r.c?'<span class="recipe-card-badge">'+r.c+'</span>':'')+
-      '<img src="'+URL_PREFIX+'/images/'+r.s+'.webp" alt="'+r.t+'" loading="lazy" decoding="async" width="400" height="250" onerror="this.style.display=\'none\'">'+
+      '<img src="/images/'+r.s+'.webp" alt="'+r.t+'" loading="lazy" decoding="async" width="400" height="250" onerror="this.style.display=\'none\'">'+
       '<span class="recipe-card-time">⏱ '+r.tm+' '+MIN_LABEL+'</span></div>'+
       '<div class="recipe-card-body"><h3 class="recipe-card-title">'+r.t+'</h3>'+
       '<div class="recipe-card-meta"><span>'+(r.c||"")+'</span></div></div></a>';
