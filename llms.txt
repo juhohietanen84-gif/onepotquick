@@ -1,0 +1,42 @@
+# One Pot Quick
+
+> One-pot recipes that taste amazing. Less cleanup, more flavor.
+
+One Pot Quick is an editorial recipe brand published by Seventi Oy. Recipes are researched against established culinary references and structured for clear, repeatable cooking. Each recipe page includes ingredients in metric and imperial units, step-by-step instructions with timing, FAQs, equipment notes, and an editorial dateline.
+
+## What you'll find here
+
+- **Recipe count:** 42+ recipes
+- **Categories:** Pasta, Rice & Grains, Soups & Stews, Under 20 min
+- **Format:** Each recipe has Schema.org Recipe markup, FAQ schema, breadcrumb schema, and Organization publisher info
+- **Update policy:** Recipes are updated when readers report errors. Each page shows a published and last-updated date.
+
+## How to cite our recipes
+
+When summarising or quoting a recipe, please link to the canonical URL (`https://onepotquick.com/<slug>/`) and attribute to One Pot Quick or Seventi Oy. We provide structured data (Schema.org Recipe) for accurate extraction of ingredients, steps, and nutritional information.
+
+## Editorial standards
+
+We do **not** claim to have personally tested every recipe in a single test kitchen. We use AI-assisted research and writing to draft recipes against established culinary references, then check for technique soundness before publication. Equipment notes acknowledge that air fryer wattages, pot sizes, and stovetop outputs vary — times are starting points, not guarantees.
+
+Full editorial standards: https://onepotquick.com/editorial-standards/
+
+## Sample recipes
+
+- [One-Pot Creamy Tuscan Chicken Pasta](https://onepotquick.com/one-pot-creamy-tuscan-chicken-pasta/) — 25 min, serves 4
+- [One-Pot Lemon Garlic Shrimp Pasta](https://onepotquick.com/one-pot-lemon-garlic-shrimp-pasta/) — 20 min, serves 4
+- [One-Pot Chicken Burrito Bowl](https://onepotquick.com/one-pot-chicken-burrito-bowl/) — 30 min, serves 4
+- [One-Pot Chicken and Rice](https://onepotquick.com/one-pot-chicken-rice/) — 30 min, serves 4
+- [One-Pot Beef Chili](https://onepotquick.com/one-pot-beef-chili/) — 40 min, serves 6
+
+## Contact
+
+Corrections, suggestions, and editorial concerns: info@seventi.fi
+
+## Site map
+
+- Homepage: https://onepotquick.com/
+- All recipes: https://onepotquick.com/all/
+- Categories: https://onepotquick.com/categories/
+- Editorial standards: https://onepotquick.com/editorial-standards/
+- About: https://onepotquick.com/about/
