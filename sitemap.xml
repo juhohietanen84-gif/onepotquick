@@ -294,6 +294,42 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://onepotquick.com/one-pot-keto-chicken-bacon-ranch/</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://onepotquick.com/one-pot-keto-coconut-curry-chicken/</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://onepotquick.com/one-pot-keto-egg-roll-bowl/</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://onepotquick.com/one-pot-keto-italian-sausage-soup/</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://onepotquick.com/one-pot-keto-chicken-alfredo-zoodles/</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://onepotquick.com/one-pot-keto-beef-stroganoff/</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://onepotquick.com/pasta/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -310,6 +346,11 @@
   </url>
   <url>
     <loc>https://onepotquick.com/quick/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://onepotquick.com/keto/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
