@@ -1,0 +1,10 @@
+# Files Cloudflare Pages should NOT deploy as public assets.
+# Critical: prevents exposure of .git/ and excludes pipeline temp files.
+.git/
+.git
+.gitignore
+.assetsignore
+.DS_Store
+Thumbs.db
+*.treated
+.treated
