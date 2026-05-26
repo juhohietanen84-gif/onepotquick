@@ -465,6 +465,21 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://onepotquick.com/under-30-min/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://onepotquick.com/high-protein-meals/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://onepotquick.com/under-400-calories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://onepotquick.com/quiz/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
