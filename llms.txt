@@ -6,7 +6,7 @@ One Pot Quick is an editorial recipe brand published by Seventi Oy. Recipes are 
 
 ## What you'll find here
 
-- **Recipe count:** 54+ recipes
+- **Recipe count:** 58+ recipes
 - **Categories:** Pasta, Rice & Grains, Soups & Stews, Under 20 min, Keto
 - **Format:** Each recipe has Schema.org Recipe markup, FAQ schema, breadcrumb schema, and Organization publisher info
 - **Update policy:** Recipes are updated when readers report errors. Each page shows a published and last-updated date.
